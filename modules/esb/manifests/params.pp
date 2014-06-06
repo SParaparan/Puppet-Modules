@@ -57,8 +57,8 @@ class esb::params {
   $userstore_database   = 'wso2conum_db'
 
   # Depsync settings
-  $svn_user             = 'paraparan@wso2.com'
-  $svn_password         = 'XN73EC2tK4'
+  $svn_user             = 'acc@gmail.com'
+  $svn_password         = 'abc'
 
   #LDAP settings 
   $ldap_connection_uri      = 'ldap://localhost:10389'
