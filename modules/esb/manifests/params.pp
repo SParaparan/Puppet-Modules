@@ -25,8 +25,8 @@
 #
 
 class esb::params {
-  $package_repo         = 'http://downloads.wso2.com'
-  $depsync_svn_repo     = 'https://svn.wso2.com/wso2/svn/internal-apps/support-tools/pmt/pmt-greg-configs/'
+  $package_repo         = ''
+  $depsync_svn_repo     = 'https://svn.xyz.com/'
   $local_package_dir    = '/mnt/packs'
 
   # Service subdomains
